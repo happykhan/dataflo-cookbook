@@ -63,11 +63,11 @@ In either case, you can re-run the workflow by clicking the RUN AGAIN button.
 !!! tip 
     You are more than welcome to use this workflow for other data, or clone and alter it for your own needs. 
 
-This is a very simple manipulation shown here in isolation. This step can be one of many other steps in a single workflow. For simplicity in this example, we have manually uploaded the input files but there are many possible input sources in data-flo. These include (but are not limited to) other file formats like JSON or csv; online locations like Google sheets, Google drive, and Dropbox; and direct connections to databases.
+This is a very simple manipulation shown here in isolation. This step can be one of many other steps in a single workflow. For simplicity in this example, we have manually uploaded the input files but there are many possible input sources in Data-flo. These include (but are not limited to) other file formats like JSON or csv; online locations like Google sheets, Google drive, and Dropbox; and direct connections to databases.
 
 ## Creating the workflow 
 
-If the existing workflow above, meets your needs by all means clone it and keep a copy for yourself. However, you may be interested in making your own workflow specific to your use-case. It is here where I will outline the steps taken to make the workflow above. You should be able to create a new blank workflow for this recipe. If you are unsure how to do that please complete prequisite recipe: [Login and create a new workflow](./login-workflow.md). We are aiming to make a workflow like the one below. 
+If the existing workflow above meets your needs, then by all means clone it and keep a copy for yourself. However, you may be interested in making your own workflow specific to your use-case. It is here where I will outline the steps taken to make the workflow above. You should be able to create a new blank workflow for this recipe. If you are unsure how to do that please complete prerequisit recipe: [Login and create a new workflow](./login-workflow.md). We are aiming to make a workflow like the one below. 
 
 ![final workflow](./join-table/workflow.png)
 
@@ -77,7 +77,11 @@ Starting with a new and blank workflow, add the `import-from-excel-file` adaptor
 
 ![final workflow](./join-table/8.png)
 
-From the adaptor menu, which shows up on the right be default, look for the `import-from-excel-file` adaptor which is under the "Import" subheading. The search bar can also help filter through the adaptors, use search terms such as "excel" or "import". Either you should be able to find the `import-from-excel-file` adaptor in the list. Now click on it to add it to the workflow canvas. By clicking on the header of the adaptor, the adaptor search will be replaced with a panel detailing the settings for the adaptor, as shown below. 
+From the adaptor menu, which shows up on the right be default, look for the `import-from-excel-file` adaptor which is under the "Import" subheading. The search bar can also help filter through the adaptors, use search terms such as "excel" or "import". Either you should be able to find the `import-from-excel-file` adaptor in the list. 
+
+![final workflow](./join-table/1.png)
+
+Now click on it to add it to the workflow canvas. By clicking on the header of the adaptor, the adaptor search will be replaced with a panel detailing the settings for the adaptor, as shown below. 
 
 ![final workflow](./join-table/2.png)
 
@@ -101,7 +105,7 @@ Let's add an adaptor to merge the two tables, this is called `join-datatables`. 
 
 ![final workflow](./join-table/10.png)
 
- For the "main column" setting set the input to be another new input. This will be the field where a user can enter the column name on which to join the two columns. You can configure the input as we did for the others. 
+For the "main column" setting, set the input to be another new input. This will be the field where a user can enter the column name on which to join the two columns. You can configure the input as we did for the others. 
 
 ![final workflow](./join-table/11.png)
 
@@ -136,6 +140,6 @@ The final results will appear under "file" of the `export-to-csv-file` adaptor.
 
 And that's it! By working through this recipe you have covered the basic functionality of data-flo. The workflow has been automatically saving as we have been working but you can explictly save it with the save icon in the top left menu, if it isn't greyed out. 
 
-Clicking on the "Run" option in the top right, will take you to the interactive form similar to what we used in the previous section. If you would like to share this workflow, the share button in the top left will allow you to customise the sharing options to your liking and give you a link that you can share with your colleagues. 
+Clicking on the "Run" option in the top right, will take you to the interactive form similar to what we used in the previous section. If you would like to share this workflow, the share button in the top right will allow you to customise the sharing options to your liking and give you a link that you can share with your colleagues. 
 
 [^1]: Alikhan NF, Moreno LZ, Castellanos LR, Chattaway MA, McLauchlin J, et al. (2022) Dynamics of Salmonella enterica and antimicrobial resistance in the Brazilian poultry industry and global impacts on public health. PLOS Genetics 18(6): e1010174. https://doi.org/10.1371/journal.pgen.1010174
