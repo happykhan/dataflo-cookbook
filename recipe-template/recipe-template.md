@@ -16,18 +16,15 @@ date: 2024-03-25
 
 *E.g.*
 
-* *Using Vega for custom charts* 
-* *Building multiple views.*
-* *Exporting images - for a publication.*
+* Login and creating a new workflow
 
 
 ## About this dataset 
 
-*A very breif summary of the data being used, for context*
+*A very brief summary of the data being used, for context*
 
 *Add links to the original data, so that users can download and follow along*
-* *[Link to metadata table](#)*
-* *[Link to phylogenetic tree](#)*
+* *[Link to data table](#)*
 
 ## *Specific Feature*
 
