@@ -8,7 +8,7 @@ date: 2024-03-25
 ---
 *Prepared by Nabil-Fareed Alikhan. Last updated 2024-04-08*
 
-Using Data-flo, you can make many manipulations of datatables, including merging two seperate input sources together. In this recipe, we will explictly show how to join two Excel sheets using a shared column, but this approach applies to any datatable that can be loaded into Data-flo. This recipe is serving a dual purpose of being an introduction to data-flo in general, as such, it will be a detailed step-by-step walkthrough. 
+Using Data-flo, you can make many manipulations of datatables, including merging two seperate input sources together. In this recipe, we will explictly show how to join two Excel sheets using a shared column, but this approach applies to any datatable that can be loaded into Data-flo. This recipe is serving a dual purpose of being an introduction to Data-flo in general, as such, it will be a detailed step-by-step walkthrough. 
 
 ## Data-flo features demonstrated
 
