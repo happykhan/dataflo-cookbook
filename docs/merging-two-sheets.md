@@ -77,6 +77,10 @@ Starting with a new and blank workflow, add the `import-from-excel-file` adaptor
 
 ![final workflow](./join-table/8.png)
 
+!!! note 
+    See the [Data-flo manual](https://cgps.gitbook.io/data-flo/basics/interface-icons) for more information about the interface
+
+
 From the adaptor menu, which shows up on the right be default, look for the `import-from-excel-file` adaptor which is under the "Import" subheading. The search bar can also help filter through the adaptors, use search terms such as "excel" or "import". Either you should be able to find the `import-from-excel-file` adaptor in the list. 
 
 ![final workflow](./join-table/1.png)
@@ -98,6 +102,9 @@ Try changing the settings. Change the input name and the description. These valu
 ![final workflow](./join-table/6.png)
 
 We now have an input step for the first Excel file and we need to repeat the entire process of adding and configuring an `import-from-excel-file` adaptor for the second file. Repeat the previous few steps and create another `import-from-excel-file` adaptor. Be sure to have different dataflo inputs for each `import-from-excel-file` adaptor. You canvas should look like the one below. 
+
+!!! note 
+    See the [Data-flo manual](https://cgps.gitbook.io/data-flo/basics/adaptors) for more information about adaptors
 
 ![final workflow](./join-table/9.png)
 

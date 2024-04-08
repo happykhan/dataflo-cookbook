@@ -38,6 +38,8 @@ If you've managed to log in sucessfully, you will be brought to the "My workflow
 
 ![Login](./login/4-workflow.png)
 
+!!! note 
+    See the [Data-flo manual](https://cgps.gitbook.io/data-flo/basics/account) for more information about creating an account
 
 ## Creating a new workflow
 
@@ -52,3 +54,6 @@ This new workflow view will show workflows you have created and other workflows 
 You should now have a blank workflow canvas, looking similar to the one below.
 
 ![Login](./login/8-blank.png)
+
+!!! note 
+    See the [Data-flo manual](https://cgps.gitbook.io/data-flo/basics/combining-adaptors-to-create-workflows/creating-a-workflow) for more information about creating a workflow
