@@ -1,6 +1,9 @@
 # Welcome to the Data-flo Cookbook
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5c65c255-603d-4d8d-b1ab-c0f0040d0b76/deploy-status)](https://app.netlify.com/sites/dataflo-cookbook/deploys)
+
 This is a *cookbook* for Data-flo. Available at https://happykhan.github.io/dataflo-cookbook/ or https://dataflo-cookbook.netlify.app/
+
 
 ## About Data-flo 
 
@@ -9,8 +12,8 @@ Data-flo (pronounced data-flow) is an open-source web application for data integ
 ## Install and serve
 ```
 # Clone the repo
-git clone git@github.com:happykhan/microreact-cookbook.git
-cd microreact-cookbook
+git clone git@github.com:happykhan/dataflo-cookbook.git
+cd dataflo-cookbook
 
 python3 -m venv .venv
 pip install mkdocs-material
@@ -40,8 +43,7 @@ Contributions are welcome, either via a direct commit or as a pull request. Reci
 
 Please add ideas for recipe here. 
 
-* Building multiple views.
-* Exporting images - for a publication. 
-* Showing an outbreak in a ward
-* Showing an outbreak across a nation
-* using geocoder to fill in the map
+* Basic usage of data-flo 
+* Deduplication of a table 
+* Calculate days between two dates
+* Geocoding

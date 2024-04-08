@@ -3,7 +3,7 @@
 This 'cookbook' has a collection of examples or 'recipes' to show you how to make the most of [Data-flo](https://next.data-flo.io/). [Data-flo](https://next.data-flo.io/) (pronounced data-flow) is an open-source web application for data integration. It provides an easy-to-use visual interface to design reusable Workflows (data pipelines) that import, merge, clean, and manipulate data in many different ways. Once a Workflow has been created, it can be run anytime, by anyone with access, to enable push-button data extraction and transformation.
 
 
-* All examples here use the publicly available version of Data-flo at [microreact.org](https://next.data-flo.io/)
+* All examples here use the publicly available version of Data-flo at [next.data-flo.io](https://next.data-flo.io/)
 * For detailed description of specific features in Data-flo, [please read the manual](https://cgps.gitbook.io/data-flo)
 * If you have feedback and questions about Data-flo, please see the [contact instructions here](https://cgps.gitbook.io/data-flo/support/contact-and-feedback)
 
@@ -27,7 +27,3 @@ Given:
 ## How to use this cookbook
 
 The best way to use this cookbook is to browse the various recipes listed on the right, and try to recreate them yourself with the example data provided. These will hopefully provide inspiration for possible visualisations you can create with your own data. You can save these recipes as a pdf, by using your browser's print function and choosing *Save as pdf* as the printer. 
-
-If you have never used Microreact before, please start with the recipe, [Microreact classic - uploading data](./basic-upload.md). If you are feeling adventurous you can try a [detail tutorial that include a number of recipes here](./an-advanced-tutorial/introduction.md).
-
-[^1]: Dudas G et al. Virus genomes reveal factors that spread and sustained the Ebola epidemic. *Nature*. 2017 Apr 20;544(7650):309-315. doi: [10.1038/nature22040](http://dx.doi.org/10.1038/nature22040)
