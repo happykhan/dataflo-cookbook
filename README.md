@@ -1,7 +1,6 @@
 # Welcome to the Data-flo Cookbook
 
-This is a *cookbook* for Data-flo. Available at https://happykhan.github.io/microreact-cookbook/ or https://microreact-cookbook.netlify.app/
-
+This is a *cookbook* for Data-flo. Available at https://happykhan.github.io/dataflo-cookbook/ or https://dataflo-cookbook.netlify.app/
 
 ## About Data-flo 
 
