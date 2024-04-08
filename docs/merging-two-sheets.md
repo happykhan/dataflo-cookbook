@@ -134,6 +134,8 @@ The final results will appear under "file" of the `export-to-csv-file` adaptor.
 
 ![final workflow](./join-table/18.png)
 
-And that's it! By working through this recipe you have covered the basic functionality of data-flo. The workflow has been automatically saving as we have been working but you can explictly save it with the save icon in the top left menu, if it isn't greyed out. Clicking on the "Run" option in the top right, will take you to the interactive form similar to what we used in the previous section. If you would like to share this workflow, the share button in the top left will allow you to customise the sharing options to your liking and give you a link that you can share with your colleagues. 
+And that's it! By working through this recipe you have covered the basic functionality of data-flo. The workflow has been automatically saving as we have been working but you can explictly save it with the save icon in the top left menu, if it isn't greyed out. 
+
+Clicking on the "Run" option in the top right, will take you to the interactive form similar to what we used in the previous section. If you would like to share this workflow, the share button in the top left will allow you to customise the sharing options to your liking and give you a link that you can share with your colleagues. 
 
 [^1]: Alikhan NF, Moreno LZ, Castellanos LR, Chattaway MA, McLauchlin J, et al. (2022) Dynamics of Salmonella enterica and antimicrobial resistance in the Brazilian poultry industry and global impacts on public health. PLOS Genetics 18(6): e1010174. https://doi.org/10.1371/journal.pgen.1010174
