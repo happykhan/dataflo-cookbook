@@ -1,19 +1,15 @@
 # Welcome to The Data-flo Cookbook
 
-This 'cookbook' has a collection of examples or 'recipes' to show you how to make the most of [Microreact](https://microreact.org/). [Microreact](https://microreact.org/) is a free and online visualisation tool, primarily for genomic data but it can be used for a variety of data visualisation use cases. The typical use case is to create stunning interactive data visualisations as this example shown below. 
-
-![Showcase image](./showcase.png)
-
-Here are figures from a [Microreact](https://microreact.org/) project based on data from Dudas et al. (2017)[^1]. You can view the interactive dashboard at [https://microreact.org/project/west-african-ebola-epidemic](https://microreact.org/project/west-african-ebola-epidemic)
+This 'cookbook' has a collection of examples or 'recipes' to show you how to make the most of [Data-flo](https://next.data-flo.io/). [Data-flo](https://next.data-flo.io/) (pronounced data-flow) is an open-source web application for data integration. It provides an easy-to-use visual interface to design reusable Workflows (data pipelines) that import, merge, clean, and manipulate data in many different ways. Once a Workflow has been created, it can be run anytime, by anyone with access, to enable push-button data extraction and transformation.
 
 
-* All examples here use the publicly available version of Microreact at [microreact.org](https://microreact.org/)
-* For detailed description of specific features in Microreact, [please read the manual](https://docs.microreact.org/)
-* If you have feedback and questions about Microreact, please see the [contact instructions here](https://docs.microreact.org/feedback/contact)
+* All examples here use the publicly available version of Data-flo at [microreact.org](https://next.data-flo.io/)
+* For detailed description of specific features in Data-flo, [please read the manual](https://cgps.gitbook.io/data-flo)
+* If you have feedback and questions about Data-flo, please see the [contact instructions here](https://cgps.gitbook.io/data-flo/support/contact-and-feedback)
 
 !!! tip 
-    Microreact can be installed behind your firewall to enable you to visualise sensitive data safely.
-    To request a quote for the supported, Docker-packaged instance, please email microreact(at)cgps.group.
+    Data-flo can be installed behind your firewall to enable you to visualise sensitive data safely.
+    To request a quote for the supported, Docker-packaged instance, please email data-flo(at)cgps.group.
 
 ## License
 
