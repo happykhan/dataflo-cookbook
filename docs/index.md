@@ -27,5 +27,7 @@ Given:
 
 The best way to use this cookbook is to browse the various recipes listed on the right, and try to recreate them yourself with the example data provided. These will hopefully provide inspiration for possible visualisations you can create with your own data. You can save these recipes as a pdf, by using your browser's print function and choosing *Save as pdf* as the printer. 
 
+If you have never used Data-flo before, please start with the recipe, [Merging two datatables (Excel sheets)](./merging-two-sheets.md). This recipe was written as an introduction to data-flo in general, as such, it will be a detailed step-by-step walkthrough. 
+
 !!! tip 
     If you are interested in Microreact, there is similar cookbook for Microreact at [https://microreact-cookbook.netlify.app/](https://microreact-cookbook.netlify.app/)
