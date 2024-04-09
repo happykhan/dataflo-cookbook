@@ -63,12 +63,12 @@ Location
 
 ![Existing df](./geocoding/merging-columns.png)
 
-
-
 To make sure each farm location has the same granuality, we add a filtering step with the `filter rows` adaptor to remove any rows that does not have a Street address.
 
 ![Existing df](./geocoding/filtering-street.png)
 
+!!! tip "Flexible geocoding"
+    While this example uses a street addresses, the geocoding will work with less information, like with only city or country. The geocoding can also work with postcodes (e.g. CB22 3DQ) and landmarks (e.g. Big Ben)
 
 The filtered table is passed to a `geocoding` adaptor for the actual geocoding. We previous created the "Location" field in the datatable, so we can set this as the location column for geocoding.
 
