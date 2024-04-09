@@ -58,3 +58,12 @@ Comparison of software interface evolution from Data-flo version 1 to the latest
 **Sunset Phase: from 1 April 2025 onwards**
 
 * The old version (https://legacy.data-flo.io/) will be turned off.
+
+
+# Interested in an on-premise installation?
+Any data submitted through Data-flo.io is processed on the Data-flo server according to the Privacy and Terms of Service. If this does not meet agency standards for protected information, Data-flo can be installed on-premise and locally administered. This local (on-premise) installation behind your firewall enables you to process sensitive data safely. With an on-premise installation, all data is retained locally and nothing is sent to the public Data-flo server. 
+
+An on-premise Data-flo server allows you to build workflows that connect directly to internal systems, such as Laboratory Information Management Systems (LIMS), disease surveillance systems, files stored in local shared drives, and many other systems. This allows you to create secure and comprehensive data processing and cleaning workflows that can leverage both public and private data sources.
+
+To request a quote for the supported, Docker-packaged instance, please email us at data-flo@cgps.group
+
