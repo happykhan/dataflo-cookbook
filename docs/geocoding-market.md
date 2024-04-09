@@ -20,7 +20,7 @@ can solve this problem at many levels of granuality. To illustrate this, this re
 ## About this dataset 
 
 The dataset used here is not related to genomics, rather to Farmers Markets in the United States. These data are available as a [dataset on Kaggle](https://www.kaggle.com/datasets/madeleineferguson/farmers-markets-in-the-united-states). 
-Farmers markets are an important way for citizens to eat healthy fresh food while supporting small family farms. This data contains information about all the registered farmers markets in the United States in 2020. This includes the city, county, lat and long, and information about the types of food sold at each market. 
+Farmers markets are an important way for citizens to eat healthy fresh food while supporting small family farms. This data contains information about all the registered farmers markets in the United States in 2020. This includes the city, county, and information about the types of food sold at each market. 
 
 You will need the following data: 
 
