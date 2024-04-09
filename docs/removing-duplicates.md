@@ -14,7 +14,7 @@ This recipe will show how to use the `remove-duplicate-rows` adaptor to filter d
 
 * `import-from-csv-file` adaptor
 * `remove-duplicate-rows` adaptor
-* Interative table filtering options
+* Interactive table filtering options
 
 ## About this dataset 
 
@@ -61,5 +61,8 @@ Try chaining multiple steps using this process to create a multi-step workflow l
 ![Existing df](./duplicates/chained.png)
 
 For any of the output items you could like to save, check the option "Use as Workflow Output" to have the output presented when running the workflow. 
+
+!! tip 
+    For more information about the removing duplicate rows, [see the manual](https://cgps.gitbook.io/data-flo/reference-guide/remove-duplicate-rows)
 
 [^1]: Wong VK, Baker S, Pickard DJ, Parkhill J, Page AJ, Feasey NA, Kingsley RA, Thomson NR, Keane JA, Weill FX, Edwards DJ, Hawkey J, Harris SR, Mather AE, Cain AK, Hadfield J, Hart PJ, Thieu NT, Klemm EJ, Glinos DA, Breiman RF, Watson CH, Kariuki S, Gordon MA, Heyderman RS, Okoro C, Jacobs J, Lunguya O, Edmunds WJ, Msefula C, Chabalgoity JA, Kama M, Jenkins K, Dutta S, Marks F, Campos J, Thompson C, Obaro S, MacLennan CA, Dolecek C, Keddy KH, Smith AM, Parry CM, Karkey A, Mulholland EK, Campbell JI, Dongol S, Basnyat B, Dufour M, Bandaranayake D, Naseri TT, Singh SP, Hatta M, Newton P, Onsare RS, Isaia L, Dance D, Davong V, Thwaites G, Wijedoru L, Crump JA, De Pinna E, Nair S, Nilles EJ, Thanh DP, Turner P, Soeng S, Valcanis M, Powling J, Dimovski K, Hogg G, Farrar J, Holt KE, Dougan G. Phylogeographical analysis of the dominant multidrug-resistant H58 clade of Salmonella Typhi identifies inter- and intracontinental transmission events. Nat Genet. 2015 Jun;47(6):632-9. doi: 10.1038/ng.3281. Epub 2015 May 11. PMID: 25961941; PMCID: PMC4921243.
