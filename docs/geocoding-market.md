@@ -63,7 +63,7 @@ Location
 
 ![Existing df](./geocoding/merging-columns.png)
 
-To make sure each farm location has the same granuality, we add a filtering step with the `filter rows` adaptor to remove any rows that does not have a Street address.
+To make sure each market location has the same granuality, we add a filtering step with the `filter rows` adaptor to remove any rows that does not have a Street address.
 
 ![Existing df](./geocoding/filtering-street.png)
 
