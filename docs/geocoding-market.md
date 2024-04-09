@@ -1,5 +1,5 @@
 ---
-title: Converting addresses to latitute and longitude.
+title: Converting addresses to latitude and longitude.
 description:  Geocoding addresses 
 status: new
 authors:
@@ -8,14 +8,14 @@ date: 2024-03-25
 ---
 *Prepared by Nabil-Fareed Alikhan. Last updated 2024-04-09*
 
-Converting geographic location information, like an address into a latitute and longitude is a common hurdle for displaying data points on a map. This also affects tools like [Microreact](https://microreact.org/). Data-flo includes a geocoding adaptor that 
+Converting geographic location information, like an address into a latitude and longitude is a common hurdle for displaying data points on a map. This also affects tools like [Microreact](https://microreact.org/). Data-flo includes a geocoding adaptor that 
 can solve this problem at many levels of granuality. To illustrate this, this recipe uses a dataset that has the street address of farmers markets in the United States. We will aim to filter the data and present some of these on a map.
 
 ## Data-flo features demonstrated
 
 * Merging columns with `concatenate-columns`
 * Filtering rows with `filter-rows`
-* Geocoding, converting addresses into latitute and longitude with `geocoding`  
+* Geocoding, converting addresses into latitude and longitude with `geocoding`  
 
 ## About this dataset 
 
