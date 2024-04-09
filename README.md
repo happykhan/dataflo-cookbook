@@ -39,11 +39,9 @@ Contributions are welcome, either via a direct commit or as a pull request. Reci
 * Keep it brief 
 * Copy and use the template in `recipe-template` for consistency. 
 
-## Wishlist of recipe 
+## Wishlist of recipes
 
 Please add ideas for recipe here. 
 
-* Basic usage of data-flo 
-* Deduplication of a table 
 * Calculate days between two dates
 * Geocoding
