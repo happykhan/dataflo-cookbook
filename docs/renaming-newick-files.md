@@ -64,7 +64,7 @@ import route, I used the `import-text-from-file` adaptor. The "mapping" input `r
 The resulting Newick file from `rename-newick-leaf-labels` was directed to a final adaptor, `export-text-to-file`. This allowed me to customise the final outfile, for instance, to set the output file name to be "renamed_newick.nwk" so it would have the correct file extension for most tree visualisation programs. 
 
 Here is the [final newick file](rename-newick/file.nwk). You will see that the "SAL_xxx" labels have been replaced, where possible, with the final SRA accession. 
-If there is no mapping provided, the tip label will be left unaltered. For instance, "SAL_DB7870AA_AS" does not have an SRA accession in the mapping file, and has been left as is in the final output.
+If there is no mapping provided, the tip label will be left unaltered. For instance, "SAL_DB7870AA_AS" does not have an SRA accession in the mapping file, and has been left alone in the final output.
 
 ```
 ((SRR1966467:0.00016804,((SRR7866992:9.3034e-06,SRR7457149:1.13873e-05)1:2.90208e-07,((SRR3286948:4.43003e-06,
