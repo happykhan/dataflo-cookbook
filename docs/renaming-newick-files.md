@@ -1,7 +1,6 @@
 ---
 title: Renaming labels in a Newick tree file
 description:  Renaming labels newick tree files
-status: new
 authors:
     - AUTHOR
 date: 2024-03-25
