@@ -67,7 +67,7 @@ This is a very simple manipulation shown here in isolation. This step can be one
 
 ## Creating the workflow 
 
-If the existing workflow above meets your needs, then by all means clone it and keep a copy for yourself. However, you may be interested in making your own workflow specific to your use-case. It is here where I will outline the steps taken to make the workflow above. You should be able to create a new blank workflow for this recipe. If you are unsure how to do that please complete prerequisit recipe: [Login and create a new workflow](./login-workflow.md). We are aiming to make a workflow like the one below. 
+If the existing workflow above meets your needs, then by all means clone it and keep a copy for yourself. However, you may be interested in making your own workflow specific to your use-case. It is here where I will outline the steps taken to make the workflow above. You should be able to create a new blank workflow for this recipe. If you are unsure how to do that please complete prerequisite recipe: [Login and create a new workflow](./login-workflow.md). We are aiming to make a workflow like the one below. 
 
 ![final workflow](./join-table/workflow.png)
 
