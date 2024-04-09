@@ -74,6 +74,6 @@ The filtered table is passed to a `geocoding` adaptor for the actual geocoding. 
 
 ![Existing df](./geocoding/geocoding.png)
 
-The output of this step is sent to a `export-to-csv-file` adaptor. This allows you to customise the final outfile, for instance, to set the output file name to be "geocoded_table.csv". The resulting file can be uploaded to [Microreact](https://microreact.org/upload) for visualisation. If you are unsure how to upload data to Microreact, please [see the guide here](https://microreact-cookbook.netlify.app/basic-upload/). 
+The output of this step is sent to a `export-to-csv-file` adaptor. This allows you to customise the final outfile, for instance, to set the output file name to be "geocoded_table.csv". The resulting file can be uploaded to [Microreact](https://microreact.org/upload) for visualisation. The final map from this example is shown below. If you are unsure how to upload data to Microreact, please [see the guide here](https://microreact-cookbook.netlify.app/basic-upload/). 
 
 ![Existing df](./geocoding/microreact-map.png)
