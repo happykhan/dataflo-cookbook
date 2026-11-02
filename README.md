@@ -1,3 +1,13 @@
+# Development has moved to GitLab
+
+The canonical repository is **https://gitlab.com/cgps/training/dataflo-cookbook**. Please use GitLab for code, issues and contributions.
+
+Read the training materials at **https://dataflo-cookbook.vercel.app/**.
+
+This GitHub copy is retained to preserve existing links and history.
+
+---
+
 # Welcome to The Data-flo Cookbook
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5c65c255-603d-4d8d-b1ab-c0f0040d0b76/deploy-status)](https://app.netlify.com/sites/dataflo-cookbook/deploys)
